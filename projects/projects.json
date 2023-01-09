@@ -1,0 +1,44 @@
+[
+ {
+    "name": "React Developer Intern",
+    "desc": "3 Month internship in Xcit Foundation where my role was to develop a frontend for the website.",
+    "image": "internship",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+    {
+    "name": "Tourism Website using HTML, CSS and JavaScript.",
+    "desc": "It shows different sectors of Mustang / Nepal. User can see the blog and watch videos of mustang.",
+    "image": "mustangweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+    {
+    "name": "Automatic Parking System using IOT and React",
+    "desc": "It is a demo of smart parking system using IOT where vehicle owners can see the status of parking area form their smart device.",
+    "image": "iotimage",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.youtube.com/watch?v=m7JoIZpqvrc&ab_channel=sUbHAm",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Turtle race using Python",
+    "desc": "Simple racing game using Python Tkinter",
+    "image": "turtlerace",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+
+
+]
